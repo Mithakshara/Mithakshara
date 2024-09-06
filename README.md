@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithakshara Vidushan</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithakshara&label=Profile%20views&color=0e75b6&style=flat" alt="mithakshara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mithakshara&label=Profile%20views&color=0e75b6&style=flat" alt="mithakshara" /> </p>
 
 - 🌱 I’m currently learning **Java**
 

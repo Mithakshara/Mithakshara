@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithakshara&label=Profile%20views&color=0e75b6&style=flat" alt="mithakshara" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **Java**
 
